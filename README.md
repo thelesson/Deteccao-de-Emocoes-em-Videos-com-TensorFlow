@@ -16,7 +16,7 @@ Aqui está o link para o arquivo hospedado no Colab: https://colab.research.goog
 
 Video de face unica:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_B7TAXgBuIY/0.jpg)](https://www.youtube.com/watch?v=_B7TAXgBuIY)
+https://www.youtube.com/watch?v=_B7TAXgBuIY
 
 Vídeo com múltiplas faces
 
