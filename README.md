@@ -16,7 +16,7 @@ Aqui está o link para o arquivo hospedado no Colab: https://colab.research.goog
 
 Video de face unica:
 
-[![IMAGE ALT TEXT HERE](https://github.com/thelesson/Deteccao-de-Emocoes-em-Videos-com-TensorFlow/blob/main/cover.png?raw=true)(https://www.youtube.com/watch?v=_B7TAXgBuIY)
+[![IMAGE ALT TEXT HERE](https://github.com/thelesson/Deteccao-de-Emocoes-em-Videos-com-TensorFlow/blob/main/cover.png?raw=true)](https://www.youtube.com/watch?v=_B7TAXgBuIY)
 
 Vídeo com múltiplas faces
 
