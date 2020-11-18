@@ -20,3 +20,4 @@ Video de face unica:
 
 Vídeo com múltiplas faces
 
+[![IMAGE ALT TEXT HERE](https://github.com/thelesson/Deteccao-de-Emocoes-em-Videos-com-TensorFlow/blob/main/cover2.png?raw=true)](https://www.youtube.com/watch?v=oNknpdTre9U)
